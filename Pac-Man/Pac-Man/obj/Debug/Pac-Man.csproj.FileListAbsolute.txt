@@ -1,0 +1,13 @@
+C:\Users\Lorenzo\Desktop\arcade\Pac-Man\Pac-Man\bin\Debug\Pac-Man.exe.config
+C:\Users\Lorenzo\Desktop\arcade\Pac-Man\Pac-Man\obj\Debug\Pac-Man.exe
+C:\Users\Lorenzo\Desktop\arcade\Pac-Man\Pac-Man\obj\Debug\Pac-Man.pdb
+C:\Users\Lorenzo\Desktop\arcade\Pac-Man\Pac-Man\bin\Debug\Pac-Man.exe
+C:\Users\Lorenzo\Desktop\arcade\Pac-Man\Pac-Man\bin\Debug\Pac-Man.pdb
+C:\Users\Lorenzo\Desktop\arcade\Pac-Man\Pac-Man\obj\Debug\Pac-Man.csprojResolveAssemblyReference.cache
+C:\Users\bogda\OneDrive\Escritorio\Pac-Man\Pac-Man\bin\Debug\Pac-Man.exe.config
+C:\Users\bogda\OneDrive\Escritorio\Pac-Man\Pac-Man\bin\Debug\Pac-Man.exe
+C:\Users\bogda\OneDrive\Escritorio\Pac-Man\Pac-Man\bin\Debug\Pac-Man.pdb
+C:\Users\bogda\OneDrive\Escritorio\Pac-Man\Pac-Man\obj\Debug\Pac-Man.csprojResolveAssemblyReference.cache
+C:\Users\bogda\OneDrive\Escritorio\Pac-Man\Pac-Man\obj\Debug\Pac-Man.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Escritorio\Pac-Man\Pac-Man\obj\Debug\Pac-Man.exe
+C:\Users\bogda\OneDrive\Escritorio\Pac-Man\Pac-Man\obj\Debug\Pac-Man.pdb
